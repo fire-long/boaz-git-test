@@ -3,4 +3,5 @@
 member
 - Jeong Daun
 - 2
-
+- No Seunghye
+- c
