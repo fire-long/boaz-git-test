@@ -1,7 +1,4 @@
-
-
-
 # 텍스트 파일 내용
-
 member
-- park Jinyeong
+- Kim BoGyum
+- 1
