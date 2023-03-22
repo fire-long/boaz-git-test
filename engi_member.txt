@@ -1,4 +1,6 @@
+#engi_member.txt
 member
 - Kim BoGyum
 - 1
+- a
 - engi

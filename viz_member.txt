@@ -1,8 +1,6 @@
 #viz_member.txt
-
 member
 - Jeong Daun
 - 2
-
-- No Seunghye
 - c
+- viz
